@@ -1,0 +1,39 @@
+.home-container {
+    max-width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 2rem;
+    background-color: #1a1a1a;
+    border-radius: 10px;
+    color: #ffffff;
+  }
+  
+  textarea {
+    width: 80%;
+    height: 150px;
+    padding: 1em;
+    margin-top: 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-family: inherit;
+    font-size: 1em;
+    resize: vertical;
+  }
+  
+  .button-container {
+    margin-top: 1em;
+  }
+  
+  button {
+    margin: 0.5em;
+  }
+  
+  .preview {
+    text-align: left;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    padding: 1em;
+    background-color: #333;
+    border-radius: 8px;
+  }
+  
